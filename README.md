@@ -3,10 +3,6 @@
 MARSCOPE is a route-planning prototype for Jezero crater on Mars, made by Team DeltaX (Dhaka) for the NASA Space Apps
 Challenge 2026 (*Interplanetary Survival Guide: Martian Map*).
 
-> **Pre-event concept prototype, not work produced during the official hackathon (Nov 14–15, 2026).**
->
-> This version uses only files inside the project and downloads nothing. The terrain is a **synthetic test fixture** in
-> the official MOLA file format — **not NASA data** — and the app labels it SYNTHETIC everywhere.
 
 ## Overview
 
