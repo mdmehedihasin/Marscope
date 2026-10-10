@@ -1,0 +1,9 @@
+fastapi>=0.110
+starlette>=0.37      # used directly by the fallback server (app/lite.py); FastAPI also installs it
+uvicorn>=0.29
+numpy>=1.26
+scipy>=1.11
+pillow>=10
+pydantic>=2.5
+# tests
+pytest>=8

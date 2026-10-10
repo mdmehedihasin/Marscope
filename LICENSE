@@ -1,0 +1,31 @@
+MIT License
+
+Copyright (c) 2026 Team DeltaX (MARSCOPE)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---------------------------------------------------------------------------
+Data and third-party notes (not covered by the MIT licence above):
+- The terrain in this build is a synthetic test fixture made by MARSCOPE (MIT).
+- NASA / USGS data, when added later, keep their credit lines (e.g. NASA / GSFC
+  MOLA Science Team / PDS Geosciences Node; USGS Astrogeology / NASA JPL).
+- Third-party products (e.g. the CRISM-derived map by Saranathan & Parente 2021)
+  keep their authors' credit and licence terms.
+- Bundled libraries keep their own licences: Leaflet (BSD-2-Clause), React (MIT),
+  Inter / Space Grotesk / JetBrains Mono fonts (SIL Open Font License 1.1).

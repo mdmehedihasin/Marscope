@@ -1,0 +1,38 @@
+# Raw source data and large rasters (rebuild with the scripts; see docs/DATA.md)
+data/raw/*
+!data/raw/README.md
+*.tif
+*.tiff
+*.img
+!data/fixtures/*.img
+*.IMG
+*.zip
+
+# Local benchmark output (python scripts/benchmark_routes.py)
+docs/benchmark_latest.json
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Node build leftovers (frontend/dist is committed on purpose)
+node_modules/
+frontend/.vite/
+*.log
+npm-debug.log*
+
+# Secrets and local settings
+.env
+*.pem
+*.key
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
