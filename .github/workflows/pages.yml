@@ -1,6 +1,4 @@
-# Publishes the ready-built demo (frontend/dist) to GitHub Pages. It runs ONLY when you press "Run workflow"
-# in the Actions tab, so nothing fails by itself. The page uses the bundled Demo Mission snapshot (no backend).
-# Before the first run: Settings -> Pages -> Source: "GitHub Actions".
+
 name: Deploy demo to GitHub Pages
 on:
   workflow_dispatch:
